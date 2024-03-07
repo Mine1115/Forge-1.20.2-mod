@@ -1,5 +1,5 @@
-# Minecraft Forge Mod Template
-> Version: 1.20.2 | with Parchment
+# [Minecraft Forge Mod Template](https://github.com/jaymar921/Forge-1.20.2-Modding-Template)
+> Version: 1.20.2 | with Parchment | prepared by: Jaymar921
 
 This repository has all the configuration setup.
 
