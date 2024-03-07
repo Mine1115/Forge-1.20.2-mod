@@ -16,3 +16,11 @@ If you wish to change the directory, make sure to link it in `## Mod Properties`
 
 ### Running the Client
 - Proceed to `Gradle's` tab -> `Tasks` -> `forgegradle runs` -> and click on `runClient` to open Minecraft client
+
+### Github workflow GradleCI
+```
+git update-index --chmod=+x gradlew
+git add .
+git commit -m "Changing permission of gradlew"
+git push
+```
